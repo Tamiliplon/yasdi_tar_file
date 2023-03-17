@@ -1,7 +1,7 @@
 cd /home/iplon/repos
 
 
-apt install docker-compose -y
+#apt install docker-compose -y
 
 tar -xvf build-gcc_tar.gz
 
