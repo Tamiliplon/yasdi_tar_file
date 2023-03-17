@@ -1,3 +1,3 @@
-#cd /home/iplon/repos/yasdi2mqtt/
+cd /home/iplon/repos/yasdi2mqtt/
 
-#docker-compose up -d
+docker-compose up -d
