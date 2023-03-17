@@ -1,9 +1,9 @@
 cd /home/iplon/repos
 
 apt install docker.io
-sleep 5;
+
 apt install docker-compose -y
-sleep 5;
+
 tar -xvf build-gcc_tar.gz
 
 
@@ -20,6 +20,4 @@ sleep 5;
 docker run --name node-red3.0.2 --restart unless-stopped -p 1880:1880 -itd  nodered/node-red:3.0.2
 
 
-cd /home/iplon/repos/yasdi2mqtt/
 
-docker-compose up -d
