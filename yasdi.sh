@@ -7,7 +7,7 @@ tar -xvf build-gcc_tar.gz
 
 
 
-tar -xvf yasdi2mqtt_tar.gz
+tar -xvf yasdi3mqtt_tar.gz
 
 
 
